@@ -1,0 +1,756 @@
+{
+  "schemaVersion": 1,
+  "release": "b9c5daf5a3913ea96529d30fe9f564e3389cb90a01298a8c330679303f6626ba",
+  "count": 44,
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "boundaries": [
+    {
+      "canonicalKey": "الزهرة",
+      "displayAr": "الزهرة",
+      "relationId": 19122046,
+      "nameEnOsm": "Az Zahrah",
+      "path": "boundaries/19122046/f1637fd77ffdccb3e1584dfb4b56d2f228ea512cdbb6f6d609e97065b8162414.geojson",
+      "sha256": "f1637fd77ffdccb3e1584dfb4b56d2f228ea512cdbb6f6d609e97065b8162414",
+      "bytes": 2090,
+      "bbox": [
+        39.555737,
+        24.512065,
+        39.582051,
+        24.554288
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122046"
+    },
+    {
+      "canonicalKey": "العيون",
+      "displayAr": "العيون",
+      "relationId": 19122047,
+      "nameEnOsm": "Al Uyun",
+      "path": "boundaries/19122047/70351ed1062653af827322dd510e4a5cf8c52407908ff77fa7f489229dd0dad1.geojson",
+      "sha256": "70351ed1062653af827322dd510e4a5cf8c52407908ff77fa7f489229dd0dad1",
+      "bytes": 2154,
+      "bbox": [
+        39.5808,
+        24.487315,
+        39.601506,
+        24.547171
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122047",
+      "sourceCheck": {
+        "url": "https://api.openstreetmap.org/api/0.6/relation/19122047/full",
+        "checkedAt": "2026-11-17T19:14:19.347080+00:00",
+        "geometryEquivalent": true,
+        "osmShapeSha256": "70351ed1062653af827322dd510e4a5cf8c52407908ff77fa7f489229dd0dad1"
+      }
+    },
+    {
+      "canonicalKey": "بئر عثمان",
+      "displayAr": "بئر عثمان",
+      "relationId": 19122049,
+      "nameEnOsm": "Bir Uthman",
+      "path": "boundaries/19122049/7a0c62fea5550b2603a00bf663b2f0d11025f570f91ebd8a6418991d7ac348e1.geojson",
+      "sha256": "7a0c62fea5550b2603a00bf663b2f0d11025f570f91ebd8a6418991d7ac348e1",
+      "bytes": 1362,
+      "bbox": [
+        39.572086,
+        24.480782,
+        39.587787,
+        24.506707
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122049",
+      "sourceCheck": {
+        "url": "https://api.openstreetmap.org/api/0.6/relation/19122049/full",
+        "checkedAt": "2026-11-17T19:14:21.979807+00:00",
+        "geometryEquivalent": true,
+        "osmShapeSha256": "7a0c62fea5550b2603a00bf663b2f0d11025f570f91ebd8a6418991d7ac348e1"
+      }
+    },
+    {
+      "canonicalKey": "ذو الحليفة",
+      "displayAr": "ذو الحليفة",
+      "relationId": 19122056,
+      "nameEnOsm": "Dhu Al Hulayfah",
+      "path": "boundaries/19122056/806e1186d24c85fb3ade14cfdc59b76abbdc23319cc689bb0d4e8bc8199a080f.geojson",
+      "sha256": "806e1186d24c85fb3ade14cfdc59b76abbdc23319cc689bb0d4e8bc8199a080f",
+      "bytes": 1754,
+      "bbox": [
+        39.538089,
+        24.410279,
+        39.58246,
+        24.447005
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122056"
+    },
+    {
+      "canonicalKey": "الحديقة",
+      "displayAr": "الحديقة",
+      "relationId": 19122061,
+      "nameEnOsm": "Al Hadiqah",
+      "path": "boundaries/19122061/def45f40ce845aa350f05329d816161b3a88f88bad581bdec652201045cc7c8c.geojson",
+      "sha256": "def45f40ce845aa350f05329d816161b3a88f88bad581bdec652201045cc7c8c",
+      "bytes": 918,
+      "bbox": [
+        39.597403,
+        24.403914,
+        39.623808,
+        24.427578
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122061"
+    },
+    {
+      "canonicalKey": "المبعوث",
+      "displayAr": "المبعوث",
+      "relationId": 19122062,
+      "nameEnOsm": "Al Mabuth",
+      "path": "boundaries/19122062/d0209438afc0698510b76cfe875df77eaa27eb68bcc4cd04e49804d8cd7632a2.geojson",
+      "sha256": "d0209438afc0698510b76cfe875df77eaa27eb68bcc4cd04e49804d8cd7632a2",
+      "bytes": 1108,
+      "bbox": [
+        39.655074,
+        24.471976,
+        39.698031,
+        24.494117
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122062"
+    },
+    {
+      "canonicalKey": "وادي مذينب",
+      "displayAr": "وادي مذينب",
+      "relationId": 19122063,
+      "nameEnOsm": "Wadi Mudhainib",
+      "path": "boundaries/19122063/d9c96b6722419129b65bc2165f578e816522ad99d87b1e77566ce8a16f080f4b.geojson",
+      "sha256": "d9c96b6722419129b65bc2165f578e816522ad99d87b1e77566ce8a16f080f4b",
+      "bytes": 973,
+      "bbox": [
+        39.652192,
+        24.417788,
+        39.68932,
+        24.453794
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122063"
+    },
+    {
+      "canonicalKey": "السيح",
+      "displayAr": "السيح",
+      "relationId": 19122064,
+      "nameEnOsm": "As Sih",
+      "path": "boundaries/19122064/a62c0538f2cf7a5fa6cff8b256148a5565b846b56797de9d5c3f8fada2c041ed.geojson",
+      "sha256": "a62c0538f2cf7a5fa6cff8b256148a5565b846b56797de9d5c3f8fada2c041ed",
+      "bytes": 860,
+      "bbox": [
+        39.591573,
+        24.467073,
+        39.602791,
+        24.477431
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122064"
+    },
+    {
+      "canonicalKey": "قربان",
+      "displayAr": "قربان",
+      "relationId": 19122065,
+      "nameEnOsm": "Qurban",
+      "path": "boundaries/19122065/485e8685dcff1f03d3174e162d6e1b7d7aea41395517ffeedf1b1bfc6dfb5afd.geojson",
+      "sha256": "485e8685dcff1f03d3174e162d6e1b7d7aea41395517ffeedf1b1bfc6dfb5afd",
+      "bytes": 1341,
+      "bbox": [
+        39.6093,
+        24.441035,
+        39.632887,
+        24.464301
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122065"
+    },
+    {
+      "canonicalKey": "الظاهرة",
+      "displayAr": "الظاهرة",
+      "relationId": 19122066,
+      "nameEnOsm": "Al Dhahirah",
+      "path": "boundaries/19122066/f4cd76a65d42f2303392986b9f1533a5b6a776d64a294918cb67ca3d23942a68.geojson",
+      "sha256": "f4cd76a65d42f2303392986b9f1533a5b6a776d64a294918cb67ca3d23942a68",
+      "bytes": 935,
+      "bbox": [
+        39.590375,
+        24.436583,
+        39.609519,
+        24.45731
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122066"
+    },
+    {
+      "canonicalKey": "حرة الوبرة",
+      "displayAr": "حرة الوبرة",
+      "relationId": 19122067,
+      "nameEnOsm": "Hura Al Wabra",
+      "path": "boundaries/19122067/3a831ef871ddf87a5857ab9a66d1fac0f87617d6fc2ee9a0b6fcb57bfeaf38a6.geojson",
+      "sha256": "3a831ef871ddf87a5857ab9a66d1fac0f87617d6fc2ee9a0b6fcb57bfeaf38a6",
+      "bytes": 1016,
+      "bbox": [
+        39.577065,
+        24.450958,
+        39.590375,
+        24.467147
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122067"
+    },
+    {
+      "canonicalKey": "الجامعة",
+      "displayAr": "الجامعة",
+      "relationId": 19122068,
+      "nameEnOsm": "Al Jamiah",
+      "path": "boundaries/19122068/60d1d57f613ed9bb10fc7cd3eef37d2473937af6e48b6ec150a431d046fd644e.geojson",
+      "sha256": "60d1d57f613ed9bb10fc7cd3eef37d2473937af6e48b6ec150a431d046fd644e",
+      "bytes": 1110,
+      "bbox": [
+        39.549166,
+        24.467147,
+        39.578092,
+        24.50001
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122068",
+      "sourceCheck": {
+        "url": "https://api.openstreetmap.org/api/0.6/relation/19122068/full",
+        "checkedAt": "2026-11-17T19:14:27.215105+00:00",
+        "geometryEquivalent": true,
+        "osmShapeSha256": "60d1d57f613ed9bb10fc7cd3eef37d2473937af6e48b6ec150a431d046fd644e"
+      }
+    },
+    {
+      "canonicalKey": "الدفاع",
+      "displayAr": "الدفاع",
+      "relationId": 19122069,
+      "nameEnOsm": "Ad Difa",
+      "path": "boundaries/19122069/1bc92c754eb6e80e48ac1e7bc1c95f2ea63757033dfeab5fad6f14306085fa1c.geojson",
+      "sha256": "1bc92c754eb6e80e48ac1e7bc1c95f2ea63757033dfeab5fad6f14306085fa1c",
+      "bytes": 823,
+      "bbox": [
+        39.497593,
+        24.422272,
+        39.545807,
+        24.466315
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122069"
+    },
+    {
+      "canonicalKey": "العهن",
+      "displayAr": "العهن",
+      "relationId": 19122081,
+      "nameEnOsm": "Al Ihn",
+      "path": "boundaries/19122081/ef0d92564dfc44bb028f6c77f6750a3bcfc50f743687e8ac1d1fce8eb200be87.geojson",
+      "sha256": "ef0d92564dfc44bb028f6c77f6750a3bcfc50f743687e8ac1d1fce8eb200be87",
+      "bytes": 1015,
+      "bbox": [
+        39.625735,
+        24.422297,
+        39.652192,
+        24.442252
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122081"
+    },
+    {
+      "canonicalKey": "الشريبات",
+      "displayAr": "الشريبات",
+      "relationId": 19122082,
+      "nameEnOsm": "Ash Shuraybat",
+      "path": "boundaries/19122082/6936f61555b2e22d656f28aa9c973ea34f759bce87a2f6036d2aa3cb0fd48875.geojson",
+      "sha256": "6936f61555b2e22d656f28aa9c973ea34f759bce87a2f6036d2aa3cb0fd48875",
+      "bytes": 969,
+      "bbox": [
+        39.630188,
+        24.442252,
+        39.64584,
+        24.457565
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122082"
+    },
+    {
+      "canonicalKey": "وادي مهزور",
+      "displayAr": "وادي مهزور",
+      "relationId": 19122083,
+      "nameEnOsm": "Wadi Mahzur",
+      "path": "boundaries/19122083/70564bbfe05186bc89f4e16216c27c79770c8001d459ad8490633a53d861ff41.geojson",
+      "sha256": "70564bbfe05186bc89f4e16216c27c79770c8001d459ad8490633a53d861ff41",
+      "bytes": 1124,
+      "bbox": [
+        39.632887,
+        24.429861,
+        39.668018,
+        24.451338
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122083"
+    },
+    {
+      "canonicalKey": "الخالدية",
+      "displayAr": "الخالدية",
+      "relationId": 19122084,
+      "nameEnOsm": "Al Khalidiyah",
+      "path": "boundaries/19122084/687e5db27f447d1aa17a322066d81f873d63485608a2697b77bb279f62a13390.geojson",
+      "sha256": "687e5db27f447d1aa17a322066d81f873d63485608a2697b77bb279f62a13390",
+      "bytes": 746,
+      "bbox": [
+        39.64919,
+        24.448644,
+        39.668104,
+        24.471976
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122084"
+    },
+    {
+      "canonicalKey": "الإسكان",
+      "displayAr": "الإسكان",
+      "relationId": 19122085,
+      "nameEnOsm": "Al Iskan",
+      "path": "boundaries/19122085/8ffa72f344e7a4cacb9d41e9d32e66bbb8df221afa8a3800ae1b87a9f7a33964.geojson",
+      "sha256": "8ffa72f344e7a4cacb9d41e9d32e66bbb8df221afa8a3800ae1b87a9f7a33964",
+      "bytes": 1026,
+      "bbox": [
+        39.634695,
+        24.444403,
+        39.659385,
+        24.470984
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122085"
+    },
+    {
+      "canonicalKey": "العريض",
+      "displayAr": "العريض",
+      "relationId": 19122086,
+      "nameEnOsm": "Al Ariyd",
+      "path": "boundaries/19122086/25d1bcae62d32858ff2ff7b7008d3e34c04e1a520e25dac64b3c7f62bf7ef787.geojson",
+      "sha256": "25d1bcae62d32858ff2ff7b7008d3e34c04e1a520e25dac64b3c7f62bf7ef787",
+      "bytes": 756,
+      "bbox": [
+        39.628676,
+        24.469817,
+        39.661568,
+        24.493716
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122086"
+    },
+    {
+      "canonicalKey": "بني معاوية",
+      "displayAr": "بني معاوية",
+      "relationId": 19122088,
+      "nameEnOsm": "Bani Muawiyah",
+      "path": "boundaries/19122088/15eb5d9a21ae08e099bbb9d5e325585ba8032670344fc9aca11c8c8bb36bf5a7.geojson",
+      "sha256": "15eb5d9a21ae08e099bbb9d5e325585ba8032670344fc9aca11c8c8bb36bf5a7",
+      "bytes": 886,
+      "bbox": [
+        39.616953,
+        24.468712,
+        39.634695,
+        24.480658
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122088"
+    },
+    {
+      "canonicalKey": "الفتح",
+      "displayAr": "الفتح",
+      "relationId": 19122091,
+      "nameEnOsm": "Al Fath",
+      "path": "boundaries/19122091/8dff465c4bd9b0becef71172242f59292b294eb3bc6651b3add45fb131b594ad.geojson",
+      "sha256": "8dff465c4bd9b0becef71172242f59292b294eb3bc6651b3add45fb131b594ad",
+      "bytes": 1211,
+      "bbox": [
+        39.584149,
+        24.469934,
+        39.605463,
+        24.487315
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122091"
+    },
+    {
+      "canonicalKey": "المغيسلة",
+      "displayAr": "المغيسلة",
+      "relationId": 19122093,
+      "nameEnOsm": "Al Mughaisilah",
+      "path": "boundaries/19122093/734e9bb7048da9731ff42a8b7312f4cbfed3d95901ded73f9df825a7aad1c24a.geojson",
+      "sha256": "734e9bb7048da9731ff42a8b7312f4cbfed3d95901ded73f9df825a7aad1c24a",
+      "bytes": 899,
+      "bbox": [
+        39.596706,
+        24.449471,
+        39.611484,
+        24.463635
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122093"
+    },
+    {
+      "canonicalKey": "السلام",
+      "displayAr": "السلام",
+      "relationId": 19122102,
+      "nameEnOsm": "As Salam",
+      "path": "boundaries/19122102/40f95aabdadf6fce0836561176164fa2bc189d3ebca896b6487a92a1c901aa6b.geojson",
+      "sha256": "40f95aabdadf6fce0836561176164fa2bc189d3ebca896b6487a92a1c901aa6b",
+      "bytes": 1416,
+      "bbox": [
+        39.454807,
+        24.460008,
+        39.549166,
+        24.491844
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122102",
+      "sourceCheck": {
+        "url": "https://api.openstreetmap.org/api/0.6/relation/19122102/full",
+        "checkedAt": "2026-11-17T19:14:11.127608+00:00",
+        "geometryEquivalent": true,
+        "osmShapeSha256": "40f95aabdadf6fce0836561176164fa2bc189d3ebca896b6487a92a1c901aa6b"
+      }
+    },
+    {
+      "canonicalKey": "الروابي",
+      "displayAr": "الروابي",
+      "relationId": 19122109,
+      "nameEnOsm": "Ar Rawabi",
+      "path": "boundaries/19122109/72a2bf8a3878523622bd55fbc64c7088f2ff2d5bffd221d527439e9f3fc9d9a4.geojson",
+      "sha256": "72a2bf8a3878523622bd55fbc64c7088f2ff2d5bffd221d527439e9f3fc9d9a4",
+      "bytes": 1092,
+      "bbox": [
+        39.634501,
+        24.399248,
+        39.673311,
+        24.429861
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122109"
+    },
+    {
+      "canonicalKey": "ابو كبير",
+      "displayAr": "ابو كبير",
+      "relationId": 19122110,
+      "nameEnOsm": "Abu Kabir",
+      "path": "boundaries/19122110/f82f8031ef148de5362bc682969d7dc6e7886efd7b0ef87c7bbbe037a2fe1e34.geojson",
+      "sha256": "f82f8031ef148de5362bc682969d7dc6e7886efd7b0ef87c7bbbe037a2fe1e34",
+      "bytes": 1374,
+      "bbox": [
+        39.519514,
+        24.364995,
+        39.551263,
+        24.412646
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122110"
+    },
+    {
+      "canonicalKey": "شوران",
+      "displayAr": "شوران",
+      "relationId": 19122111,
+      "nameEnOsm": "Shuran",
+      "path": "boundaries/19122111/7799e8322a7949df7556c78e1baba7b05fde4ea4b88c2fbdc1e09a6cfb85cb61.geojson",
+      "sha256": "7799e8322a7949df7556c78e1baba7b05fde4ea4b88c2fbdc1e09a6cfb85cb61",
+      "bytes": 577,
+      "bbox": [
+        39.606635,
+        24.376543,
+        39.643074,
+        24.411085
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122111"
+    },
+    {
+      "canonicalKey": "الرانوناء",
+      "displayAr": "الرانوناء",
+      "relationId": 19122113,
+      "nameEnOsm": "Ar Ranuna",
+      "path": "boundaries/19122113/9a79619fec6282609cfa1bf1a1ec93da23a901226efe10f8e780d1d4fd746e7b.geojson",
+      "sha256": "9a79619fec6282609cfa1bf1a1ec93da23a901226efe10f8e780d1d4fd746e7b",
+      "bytes": 1057,
+      "bbox": [
+        39.584935,
+        24.370202,
+        39.619017,
+        24.425692
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122113"
+    },
+    {
+      "canonicalKey": "بني بياضة",
+      "displayAr": "بني بياضة",
+      "relationId": 19122114,
+      "nameEnOsm": "Bani Bayadah",
+      "path": "boundaries/19122114/09d174e6143231bde5a6ea3315c5d8f4593500faf658b07847f7c83f7ec96202.geojson",
+      "sha256": "09d174e6143231bde5a6ea3315c5d8f4593500faf658b07847f7c83f7ec96202",
+      "bytes": 1120,
+      "bbox": [
+        39.581246,
+        24.370202,
+        39.598349,
+        24.399244
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122114"
+    },
+    {
+      "canonicalKey": "الجمعة",
+      "displayAr": "الجمعة",
+      "relationId": 19122116,
+      "nameEnOsm": "Al Jummah",
+      "path": "boundaries/19122116/50803efb90799801a934a49c64223205f56ac628bab76e24707190a101436965.geojson",
+      "sha256": "50803efb90799801a934a49c64223205f56ac628bab76e24707190a101436965",
+      "bytes": 1087,
+      "bbox": [
+        39.607044,
+        24.439918,
+        39.625735,
+        24.463198
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122116"
+    },
+    {
+      "canonicalKey": "الجماوات",
+      "displayAr": "الجماوات",
+      "relationId": 19122117,
+      "nameEnOsm": "Al Jamawat",
+      "path": "boundaries/19122117/bada69f852be8c686ebb4d7e0e12591939692ce723f265196826ea253ea8ebde.geojson",
+      "sha256": "bada69f852be8c686ebb4d7e0e12591939692ce723f265196826ea253ea8ebde",
+      "bytes": 1330,
+      "bbox": [
+        39.545807,
+        24.447005,
+        39.579937,
+        24.472559
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122117"
+    },
+    {
+      "canonicalKey": "الملك فهد",
+      "displayAr": "الملك فهد",
+      "relationId": 19122120,
+      "nameEnOsm": "King Fahd",
+      "path": "boundaries/19122120/e2fce04a5af66ada8b7dc8982dba633ad0307cd27b558d14bb9b458d79926399.geojson",
+      "sha256": "e2fce04a5af66ada8b7dc8982dba633ad0307cd27b558d14bb9b458d79926399",
+      "bytes": 2006,
+      "bbox": [
+        39.669426,
+        24.474888,
+        39.709551,
+        24.529343
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122120"
+    },
+    {
+      "canonicalKey": "العنابس",
+      "displayAr": "العنابس",
+      "relationId": 19122121,
+      "nameEnOsm": "Al Anabis",
+      "path": "boundaries/19122121/6877a1690ed246a133b04878407124100bf172abb881fc60600d8ccbab31e5ba.geojson",
+      "sha256": "6877a1690ed246a133b04878407124100bf172abb881fc60600d8ccbab31e5ba",
+      "bytes": 830,
+      "bbox": [
+        39.581859,
+        24.467107,
+        39.592639,
+        24.480782
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122121"
+    },
+    {
+      "canonicalKey": "السد",
+      "displayAr": "السد",
+      "relationId": 19122124,
+      "nameEnOsm": "As Sad",
+      "path": "boundaries/19122124/dabcc1c70db88edfc7853852418475c0555686b9221f1ba483755a0a5af3f082.geojson",
+      "sha256": "dabcc1c70db88edfc7853852418475c0555686b9221f1ba483755a0a5af3f082",
+      "bytes": 2686,
+      "bbox": [
+        39.620523,
+        24.38756,
+        39.64971,
+        24.422297
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122124"
+    },
+    {
+      "canonicalKey": "العزيزية",
+      "displayAr": "العزيزية",
+      "relationId": 19122131,
+      "nameEnOsm": "Al Aziziyah",
+      "path": "boundaries/19122131/8abbafe71079ec9bed9490e080ab80763dd4b3e3cb0caee0e590df6104095cfd.geojson",
+      "sha256": "8abbafe71079ec9bed9490e080ab80763dd4b3e3cb0caee0e590df6104095cfd",
+      "bytes": 965,
+      "bbox": [
+        39.469088,
+        24.394918,
+        39.531319,
+        24.441821
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122131"
+    },
+    {
+      "canonicalKey": "بني حارثة",
+      "displayAr": "بني حارثة",
+      "relationId": 19122132,
+      "nameEnOsm": "Bani Harithah",
+      "path": "boundaries/19122132/c6fbe657f6a6c7b66b999daacba347c2ec3ffe932f1d25574e32f6edf8f9b733.geojson",
+      "sha256": "c6fbe657f6a6c7b66b999daacba347c2ec3ffe932f1d25574e32f6edf8f9b733",
+      "bytes": 1247,
+      "bbox": [
+        39.61576,
+        24.480658,
+        39.641642,
+        24.500168
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122132",
+      "sourceCheck": {
+        "url": "https://api.openstreetmap.org/api/0.6/relation/19122132/full",
+        "checkedAt": "2026-11-17T19:14:14.052891+00:00",
+        "geometryEquivalent": true,
+        "osmShapeSha256": "c6fbe657f6a6c7b66b999daacba347c2ec3ffe932f1d25574e32f6edf8f9b733"
+      }
+    },
+    {
+      "canonicalKey": "المطار",
+      "displayAr": "المطار",
+      "relationId": 19122133,
+      "nameEnOsm": "Airport",
+      "path": "boundaries/19122133/efcd3a2ffcb063e6885fc2fad6755fa9b367e43e208c69dcbed13003597dada7.geojson",
+      "sha256": "efcd3a2ffcb063e6885fc2fad6755fa9b367e43e208c69dcbed13003597dada7",
+      "bytes": 2633,
+      "bbox": [
+        39.622652,
+        24.529343,
+        39.69148,
+        24.602047
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122133"
+    },
+    {
+      "canonicalKey": "طيبة",
+      "displayAr": "طيبة",
+      "relationId": 19122136,
+      "nameEnOsm": "Taibah",
+      "path": "boundaries/19122136/bb77af816c96aae37e8334da9bb137c0a02185d857346fcfe929adbf2ad65aa5.geojson",
+      "sha256": "bb77af816c96aae37e8334da9bb137c0a02185d857346fcfe929adbf2ad65aa5",
+      "bytes": 2358,
+      "bbox": [
+        39.450682,
+        24.472559,
+        39.556419,
+        24.527057
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122136"
+    },
+    {
+      "canonicalKey": "القبلتين",
+      "displayAr": "القبلتين",
+      "relationId": 19122137,
+      "nameEnOsm": "Al Qiblatayn",
+      "path": "boundaries/19122137/b62192ecc25ec6303d64d9b07ad5a9c2b0ab39185f284c36f6d87a0aec3a8ab7.geojson",
+      "sha256": "b62192ecc25ec6303d64d9b07ad5a9c2b0ab39185f284c36f6d87a0aec3a8ab7",
+      "bytes": 1269,
+      "bbox": [
+        39.568514,
+        24.467134,
+        39.584149,
+        24.488789
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122137",
+      "sourceCheck": {
+        "url": "https://api.openstreetmap.org/api/0.6/relation/19122137/full",
+        "checkedAt": "2026-11-17T19:14:16.674888+00:00",
+        "geometryEquivalent": true,
+        "osmShapeSha256": "b62192ecc25ec6303d64d9b07ad5a9c2b0ab39185f284c36f6d87a0aec3a8ab7"
+      }
+    },
+    {
+      "canonicalKey": "القصواء",
+      "displayAr": "القصواء",
+      "relationId": 19122140,
+      "nameEnOsm": "Al Qaswa",
+      "path": "boundaries/19122140/222ddf65e624297822930a8e135e1cc9d14f6de9a8f9dd0dd9fe7b7db3476eb2.geojson",
+      "sha256": "222ddf65e624297822930a8e135e1cc9d14f6de9a8f9dd0dd9fe7b7db3476eb2",
+      "bytes": 826,
+      "bbox": [
+        39.574487,
+        24.421362,
+        39.60654,
+        24.436583
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122140",
+      "sourceCheck": {
+        "url": "https://api.openstreetmap.org/api/0.6/relation/19122140/full",
+        "checkedAt": "2026-11-17T19:14:24.601849+00:00",
+        "geometryEquivalent": true,
+        "osmShapeSha256": "222ddf65e624297822930a8e135e1cc9d14f6de9a8f9dd0dd9fe7b7db3476eb2"
+      }
+    },
+    {
+      "canonicalKey": "ابو بريقاء",
+      "displayAr": "ابو بريقاء",
+      "relationId": 19122141,
+      "nameEnOsm": "Abu Burayqa",
+      "path": "boundaries/19122141/a7f8387fe42ff9dd469fa28ec46bdc8af8956cf9c1a1d03016e56c32e917768b.geojson",
+      "sha256": "a7f8387fe42ff9dd469fa28ec46bdc8af8956cf9c1a1d03016e56c32e917768b",
+      "bytes": 1624,
+      "bbox": [
+        39.547178,
+        24.409198,
+        39.577005,
+        24.428839
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122141"
+    },
+    {
+      "canonicalKey": "بضاعة",
+      "displayAr": "بضاعة",
+      "relationId": 19122145,
+      "nameEnOsm": "Badaah",
+      "path": "boundaries/19122145/9c9762780c4868b1b84da810fcd55f91af76fbb4fbd44ea390459db32a996135.geojson",
+      "sha256": "9c9762780c4868b1b84da810fcd55f91af76fbb4fbd44ea390459db32a996135",
+      "bytes": 688,
+      "bbox": [
+        39.605193,
+        24.470892,
+        39.613914,
+        24.474204
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122145"
+    },
+    {
+      "canonicalKey": "عروة",
+      "displayAr": "عروة",
+      "relationId": 19122146,
+      "nameEnOsm": "Urwah",
+      "path": "boundaries/19122146/7ddba7c3a7ff5b9474299dae46c33e0a4f38afc7baf52e552357e81d06777ab2.geojson",
+      "sha256": "7ddba7c3a7ff5b9474299dae46c33e0a4f38afc7baf52e552357e81d06777ab2",
+      "bytes": 1009,
+      "bbox": [
+        39.573561,
+        24.43258,
+        39.600793,
+        24.453585
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122146"
+    },
+    {
+      "canonicalKey": "الراية",
+      "displayAr": "الراية",
+      "relationId": 19122153,
+      "nameEnOsm": "Ar Rayah",
+      "path": "boundaries/19122153/9006dee0f0d766b8eab56debbcda732c31f493d2cd5c3cc47f42c8dfec087d53.geojson",
+      "sha256": "9006dee0f0d766b8eab56debbcda732c31f493d2cd5c3cc47f42c8dfec087d53",
+      "bytes": 974,
+      "bbox": [
+        39.587787,
+        24.475435,
+        39.605112,
+        24.495594
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122153"
+    },
+    {
+      "canonicalKey": "العصبة",
+      "displayAr": "العصبة",
+      "relationId": 19122154,
+      "nameEnOsm": "Al Usbah",
+      "path": "boundaries/19122154/9ef3004b4c463d6d79ec8d07d01d725e0625c47279673207853c1cb6ba445e2f.geojson",
+      "sha256": "9ef3004b4c463d6d79ec8d07d01d725e0625c47279673207853c1cb6ba445e2f",
+      "bytes": 847,
+      "bbox": [
+        39.600793,
+        24.420571,
+        39.620523,
+        24.439918
+      ],
+      "osmUrl": "https://www.openstreetmap.org/relation/19122154"
+    }
+  ]
+}
